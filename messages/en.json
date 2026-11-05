@@ -1,0 +1,30 @@
+{
+  "Metadata": {
+    "title": "Smart Bakery Catalog",
+    "description": "Digital catalogs and direct ordering for bakeries in Egypt."
+  },
+  "Common": {
+    "appName": "Smart Bakery Catalog",
+    "languageSwitcher": "Change language",
+    "otherLanguage": "العربية",
+    "skipToContent": "Skip to content"
+  },
+  "Home": {
+    "eyebrow": "For bakeries, home bakers, and cake shops",
+    "title": "Your bakery's digital catalog, with orders delivered straight to your dashboard",
+    "subtitle": "Customers browse your products, place orders without leaving the page, and you confirm every order from one place.",
+    "featuresTitle": "What's coming",
+    "features": {
+      "catalog": "A fast, mobile-first catalog in Arabic and English",
+      "ordering": "Direct ordering with a clear confirmation page",
+      "dashboard": "A live dashboard for incoming orders",
+      "telegram": "Instant Telegram alerts for new orders"
+    },
+    "status": "Foundation in progress. The demo bakery catalog is coming soon."
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "body": "The page you are looking for doesn't exist or has moved.",
+    "backHome": "Back to home"
+  }
+}

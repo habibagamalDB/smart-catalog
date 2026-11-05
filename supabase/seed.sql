@@ -1,0 +1,1 @@
+-- Local development seed data. The demo bakery is added in Phase 1.
